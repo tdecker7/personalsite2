@@ -1,0 +1,24 @@
+body, a {
+  color: #FFF;
+}
+
+/* Parallax/Heading */
+.parallax-container { height: 100vh; }
+.parallax img {
+  height: 200vh;
+  width: 100%;
+}
+.parallax-text {
+  width: 50%;
+  margin: 0 auto;
+}
+.parallax-text h1, h2 {
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* About */
+div#about {
+  height: 100vh;
+  color: #000;
+}
